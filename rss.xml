@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LawOfficeofadammkent]]></title>
+        <description><![CDATA[LawOfficeofadammkent]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Apr 2016 01:17:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>At-Will Employment in California - The general rule in California is that you are an at-will
+employee and your employer can decline employment, fire, demote, fail to
+promote, reduce hours, change schedules or do any other adverse employment
+action for any reason whatsoever.They
+are allowed to take these actions based on false information, they can be
+unfair, they can do so without having any reason at all.The only time it is illegal is if the action
+is taken because of the employee's membership in a protected class (race,
+gender, religion, sexual orientation, disability, national origin, pregnancy)
+or because of their engagement in a legally protected activity such as acting
+as a witness in a case against the company, filing a wage complaint, or using
+Family Medical Leave to which you are entitled.</p>]]></description>
+            <link>undefinedat-will-employment-in-california/index.html</link>
+            <guid isPermaLink="false">b31439bf-e843-4642-ba2a-075e45907274</guid>
+            <pubDate>Sun, 03 Apr 2016 01:17:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
